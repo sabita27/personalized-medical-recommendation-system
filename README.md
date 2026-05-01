@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-The Personalized Medical Recommendation System is a Machine Learning–based healthcare application developed using Python and Flask.
+The Personalized Medical Recommendation System is a collaborative Machine Learning–based healthcare application developed using Python and Flask.
 
 The system predicts possible diseases based on user-entered symptoms and provides intelligent medicine recommendations using trained machine learning models.
 
-The project aims to improve healthcare accessibility through automated disease prediction and recommendation technology.
+The project focuses on improving healthcare accessibility through automated disease prediction and recommendation technology.
 
 ---
 
@@ -41,12 +41,21 @@ The project aims to improve healthcare accessibility through automated disease p
 
 ---
 
+# My Contributions
+
+* Assisted in model integration and web application development
+* Worked on frontend interface and backend functionality
+* Participated in data handling and testing processes
+* Collaborated with team members for feature implementation and project development
+
+---
+
 # Project Highlights
 
-* Implemented multiple machine learning algorithms for prediction accuracy
-* Designed an interactive healthcare recommendation interface
-* Developed scalable backend architecture for future enhancements
-* Integrated secure data handling and user interaction features
+* Developed as a collaborative academic group project
+* Implemented multiple machine learning algorithms for disease prediction
+* Designed scalable and interactive healthcare recommendation interface
+* Focused on user experience and system security
 
 ---
 
