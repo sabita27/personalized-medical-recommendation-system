@@ -59,7 +59,7 @@ The project focuses on improving healthcare accessibility through automated dise
 
 ---
 
-# Author
+# Developed By
 
 ## Sabita Sau
 
