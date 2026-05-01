@@ -63,4 +63,5 @@ The project focuses on improving healthcare accessibility through automated dise
 
 ## Sabita Sau
 
-Aspiring Full Stack Developer & Data Analyst
+GitHub: https://github.com/sabita27
+LinkedIn: https://www.linkedin.com/in/sabita-sau
